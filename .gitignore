@@ -1,0 +1,4 @@
+## can get from npm install 
+node_modules/
+## can get from npm start (webpack)
+dist/ 
