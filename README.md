@@ -8,7 +8,7 @@
 2. output
   - for multiple entry points
     - `output: { filename: '[name].[contenthash].bundle.js' }`
-    - `[contenthash] is used for cache bustling.
+    - `[contenthash]` is used for cache bustling.
 3. loader
   - webpack only understands JavaScript and JSON files.
   - loaders allow webpack to process other types of files and convert them into valid modules that can be consume by your application and added to the dependency graph.
