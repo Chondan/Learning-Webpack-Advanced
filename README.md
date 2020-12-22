@@ -24,3 +24,7 @@
     - 'html-webpack-plugin' -> generate a HTML file including the bundle files using a script tag.
     - 'clean-webpack-plugin' -> remove all file inside webpack's output.path directory, as well as all unused webpack assets after every successful rebuild.
     - 'mini-css-extract-plugin'
+
+## Useful libraries
+- 'webpack-merge' -> provide a merge function that concatenates array and merges objects creating a new object.
+  - doc: https://www.npmjs.com/package/webpack-merge
